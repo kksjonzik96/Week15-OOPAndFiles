@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.exe
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.deps.json
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.dll
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\ref\OOPAndFiles.dll
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\bin\Debug\net5.0\OOPAndFiles.pdb
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.dll
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\ref\OOPAndFiles.dll
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.pdb
+D:\Programmeerimise algkursus (RKE132)\OOPAndFiles\OOPAndFiles\obj\Debug\net5.0\OOPAndFiles.genruntimeconfig.cache
